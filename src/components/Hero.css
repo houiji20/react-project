@@ -1,0 +1,41 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    background: url('https://wallpapers.com/images/featured/information-technology-background-yj5lntx9lzio3yiz.jpg') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .hero-content {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    border-radius: 8px;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    margin: 0;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+  .hero button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .hero button:hover {
+    background-color: #0056b3;
+  }
+  

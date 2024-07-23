@@ -1,0 +1,23 @@
+.services {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .services h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .services p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .services-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
